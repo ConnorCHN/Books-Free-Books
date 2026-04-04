@@ -4,7 +4,7 @@
 
 没有注明语种的，都为英语资源。
 
-能下载到全网99% PDF电子书的方法 → [PDF下载](https://www.chendianrong.com/pdf#IT)  https://www.chendianrong.com/pdf#IT
+能下载到全网99% PDF电子书的方法 → [PDF下载](https://www.chendianrong.com/pdf)
 
 ## 目录
 
@@ -285,4 +285,3 @@
 1. [《几何原本》在线版](https://www.c82.net/euclid/)
 1. [数据可视化基础](https://serialmentor.com/dataviz/)
 1. [美国海军电气与电子培训系列教材](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
-1. [技术教育社区](https://www.teccses.org/)（中文）
